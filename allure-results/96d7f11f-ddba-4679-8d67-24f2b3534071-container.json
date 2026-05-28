@@ -1,0 +1,1 @@
+{"uuid":"96d7f11f-ddba-4679-8d67-24f2b3534071","name":"SauceDemoTest.beforeTest","children":["0aea6a53-f836-4a67-a5bb-936aac4075b2"],"description":"","befores":[{"name":"beforeTest","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1747067408342,"stop":1747067410137}],"afters":[],"start":1747067408342,"stop":1747067410138}
